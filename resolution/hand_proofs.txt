@@ -1,0 +1,78 @@
+ALPES ADVISOR - PART 2 HAND PROOFS
+
+Q2.1 - CLAUSAL FORMS
+
+E2: Every massif contains a summit higher than 2,400 m.
+
+  forall m (Massif(m) -> exists s (Summit(s) and InMassif(s,m)
+                                      and High2400(s)))
+
+After eliminating the implication and Skolemising s with f(m):
+
+  forall m (not Massif(m) or
+            (Summit(f(m)) and InMassif(f(m),m) and High2400(f(m))))
+
+The conjunctive normal form gives these clauses (variables are universal):
+
+  1. not Massif(m) or Summit(f(m))
+  2. not Massif(m) or InMassif(f(m),m)
+  3. not Massif(m) or High2400(f(m))
+
+Axiom (c): A commune lies in at most one department.
+
+  forall c,d1,d2 ((Commune(c) and Department(d1) and Department(d2)
+                   and LocatedIn(c,d1) and LocatedIn(c,d2)) -> d1 = d2)
+
+Its clausal form is:
+
+  not Commune(c) or not Department(d1) or not Department(d2)
+  or not LocatedIn(c,d1) or not LocatedIn(c,d2) or d1 = d2
+
+Q2.2 - UNIFICATION
+
+1. Neighbour(x,g(a)) and Neighbour(h(z),g(z))
+
+   Matching arguments gives x = h(z) and g(a) = g(z), hence z = a.
+   A most general unifier is {z/a, x/h(a)}.
+
+2. LocatedIn(f(x),y) and LocatedIn(f(a),g(y))
+
+   The first arguments give x = a. The second arguments require y = g(y),
+   which fails the occurs check. There is no first-order unifier.
+
+Q2.3 - REFUTATION PROOF ON THE SMALL INSTANCE
+
+Let a = aiguille_croche, c = hauteluce, d = savoie, and r =
+auvergne_rhone_alpes. The data contains these facts:
+
+  C1. LocatedIn(a,c)
+  C2. LocatedIn(c,d)
+  C3. LocatedIn(d,r)
+
+The transitivity instances needed are:
+
+  C4. not LocatedIn(a,c) or not LocatedIn(c,d) or LocatedIn(a,d)
+  C5. not LocatedIn(a,d) or not LocatedIn(d,r) or LocatedIn(a,r)
+
+To prove LocatedIn(a,r), add its negation:
+
+  C6. not LocatedIn(a,r)
+
+Resolve C4 with C1 on LocatedIn(a,c):
+
+  C7. not LocatedIn(c,d) or LocatedIn(a,d)
+
+Resolve C7 with C2 on LocatedIn(c,d):
+
+  C8. LocatedIn(a,d)
+
+Resolve C5 with C8 on LocatedIn(a,d):
+
+  C9. not LocatedIn(d,r) or LocatedIn(a,r)
+
+Resolve C9 with C3 on LocatedIn(d,r):
+
+  C10. LocatedIn(a,r)
+
+Resolve C10 with C6. The result is the empty clause, so the summit lies in
+the region.
