@@ -25,18 +25,93 @@ def load(path):
 
 
 def resolve(c1, c2):
-    """TODO: return the list of resolvents of c1 and c2 (frozensets).
-    One resolvent for each literal l of c1 whose opposite -l is in c2. Discard tautologies."""
-    raise NotImplementedError
+    """Return the non-tautological resolvents of two clauses."""
+    resolvents = []
+    for literal in sorted(c1):
+        if -literal not in c2:
+            continue
+
+        resolvent = frozenset((c1 - {literal}) | (c2 - {-literal}))
+        if any(-item in resolvent for item in resolvent):
+            continue
+        if resolvent not in resolvents:
+            resolvents.append(resolvent)
+
+    return resolvents
 
 
 def prove(kb, goal, strategy, cap=100_000):
-    """TODO: resolution loop. goal = the clause to refute or the negation of clause to prove.
-    Returns (found: bool, number of resolvents generated: int).
-    Hint: keep a set of clauses already seen (avoid duplicates), pick a "given" clause at each
-    round, resolve it with the clauses already processed according to the strategy, and stop on
-    the empty clause, on saturation, or when cap is exceeded."""
-    raise NotImplementedError
+    """Try to derive the empty clause using the selected resolution strategy."""
+    if strategy not in ("naive", "sos", "unit"):
+        raise ValueError("strategy must be 'naive', 'sos', or 'unit'")
+
+    goal_clauses = [goal] if isinstance(goal, frozenset) else list(goal)
+    clauses = []
+    clause_indices = {}
+
+    def add_clause(clause):
+        clause = frozenset(clause)
+        if clause not in clause_indices:
+            clause_indices[clause] = len(clauses)
+            clauses.append(clause)
+        return clause_indices[clause]
+
+    for clause in kb:
+        add_clause(clause)
+    support = [add_clause(clause) for clause in goal_clauses]
+    if frozenset() in clause_indices:
+        return True, 0
+    if cap <= 0:
+        return False, 0
+
+    generated = 0
+
+    def use_resolvents(first_index, second_index):
+        nonlocal generated
+        for resolvent in resolve(clauses[first_index], clauses[second_index]):
+            generated += 1
+            if not resolvent:
+                return True
+            if generated >= cap:
+                return False
+            if resolvent not in clause_indices:
+                new_index = add_clause(resolvent)
+                if strategy == "sos":
+                    support.append(new_index)
+        return None
+
+    if strategy == "sos":
+        processed_pairs = set()
+        support_position = 0
+        while support_position < len(support):
+            given_index = support[support_position]
+            support_position += 1
+            for other_index in range(len(clauses)):
+                if given_index == other_index:
+                    continue
+                pair = tuple(sorted((given_index, other_index)))
+                if pair in processed_pairs:
+                    continue
+                processed_pairs.add(pair)
+                result = use_resolvents(given_index, other_index)
+                if result is True:
+                    return True, generated
+                if generated >= cap:
+                    return False, generated
+    else:
+        given_index = 0
+        while given_index < len(clauses):
+            for other_index in range(given_index):
+                if strategy == "unit" and len(clauses[given_index]) != 1 and len(clauses[other_index]) != 1:
+                    continue
+                result = use_resolvents(given_index, other_index)
+                if result is True:
+                    return True, generated
+                if generated >= cap:
+                    return False, generated
+            given_index += 1
+
+    return False, generated
 
 
 if __name__ == "__main__":
