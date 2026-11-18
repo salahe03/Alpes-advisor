@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Alpes Advisor generated files
+.DS_Store
+*.qlf
+extract_*.txt

@@ -1,0 +1,522 @@
+id,type,label
+abondance_q322895,commune,Abondance
+alby_sur_cheran,commune,Alby-sur-Chéran
+alex,commune,Alex
+alleves,commune,Allèves
+allinges,commune,Allinges
+allonzier_la_caille,commune,Allonzier-la-Caille
+amancy,commune,Amancy
+ambilly,commune,Ambilly
+andilly,commune,Andilly
+annecy,commune,Annecy
+annemasse,commune,Annemasse
+anthy_sur_leman,commune,Anthy-sur-Léman
+araches_la_frasse,commune,Arâches-la-Frasse
+arbusigny,commune,Arbusigny
+archamps,commune,Archamps
+arenthon,commune,Arenthon
+argonay,commune,Argonay
+armoy,commune,Armoy
+arthaz_pont_notre_dame,commune,Arthaz-Pont-Notre-Dame
+ayse,commune,Ayse
+ballaison,commune,Ballaison
+bassy,commune,Bassy
+beaumont,commune,Beaumont
+bellevaux,commune,Bellevaux
+bernex,commune,Bernex
+bloye,commune,Bloye
+bluffy,commune,Bluffy
+boege,commune,Boëge
+bogeve,commune,Bogève
+bonne,commune,Bonne
+bonnevaux,commune,Bonnevaux
+bonneville,commune,Bonneville
+bons_en_chablais,commune,Bons-en-Chablais
+bossey,commune,Bossey
+boussy,commune,Boussy
+brenthonne,commune,Brenthonne
+brizon,commune,Brizon
+burdignin,commune,Burdignin
+cercier,commune,Cercier
+cernex,commune,Cernex
+cervens,commune,Cervens
+chainaz_les_frasses,commune,Chainaz-les-Frasses
+challonges,commune,Challonges
+chamonix_mont_blanc,commune,Chamonix-Mont-Blanc
+champanges,commune,Champanges
+chapeiry,commune,Chapeiry
+charvonnex,commune,Charvonnex
+chatel,commune,Châtel
+chatillon_sur_cluses,commune,Châtillon-sur-Cluses
+chaumont,commune,Chaumont
+chavannaz,commune,Chavannaz
+chavanod,commune,Chavanod
+chene_en_semine,commune,Chêne-en-Semine
+chenex,commune,Chênex
+chens_sur_leman,commune,Chens-sur-Léman
+chessenaz,commune,Chessenaz
+chevaline,commune,Chevaline
+chevenoz,commune,Chevenoz
+chevrier,commune,Chevrier
+chilly,commune,Chilly
+choisy,commune,Choisy
+clarafond_arcine,commune,Clarafond-Arcine
+clermont,commune,Clermont
+cluses,commune,Cluses
+collonges_sous_saleve,commune,Collonges-sous-Salève
+combloux,commune,Combloux
+contamine_sarzin,commune,Contamine-Sarzin
+contamine_sur_arve,commune,Contamine-sur-Arve
+copponex,commune,Copponex
+cordon,commune,Cordon
+cornier,commune,Cornier
+cranves_sales,commune,Cranves-Sales
+crempigny_bonneguete,commune,Crempigny-Bonneguête
+cruseilles,commune,Cruseilles
+cusy,commune,Cusy
+cuvat,commune,Cuvat
+demi_quartier,commune,Demi-Quartier
+desingy,commune,Desingy
+dingy_en_vuache,commune,Dingy-en-Vuache
+dingy_saint_clair,commune,Dingy-Saint-Clair
+domancy,commune,Domancy
+doussard,commune,Doussard
+douvaine,commune,Douvaine
+draillant,commune,Draillant
+droisy,commune,Droisy
+duingt,commune,Duingt
+eloise,commune,Éloise
+entrevernes,commune,Entrevernes
+epagny_metz_tessy,commune,Epagny Metz-Tessy
+essert_romand,commune,Essert-Romand
+etercy,commune,Étercy
+etrembieres,commune,Étrembières
+evian_les_bains,commune,Évian-les-Bains
+excenevex,commune,Excenevex
+faucigny,commune,Faucigny
+faverges_seythenex,commune,Faverges-Seythenex
+feigeres,commune,Feigères
+fessy,commune,Fessy
+feternes,commune,Féternes
+filliere,commune,Fillière
+fillinges,commune,Fillinges
+franclens,commune,Franclens
+frangy,commune,Frangy
+gaillard,commune,Gaillard
+giez,commune,Giez
+glieres_val_de_borne,commune,Glières-Val-de-Borne
+groisy,commune,Groisy
+gruffy,commune,Gruffy
+habere_lullin,commune,Habère-Lullin
+habere_poche,commune,Habère-Poche
+hauteville_sur_fier,commune,Hauteville-sur-Fier
+hery_sur_alby,commune,Héry-sur-Alby
+jonzier_epagny,commune,Jonzier-Épagny
+juvigny,commune,Juvigny
+la_balme_de_sillingy,commune,La Balme-de-Sillingy
+la_balme_de_thuy,commune,La Balme-de-Thuy
+la_baume,commune,La Baume
+la_chapelle_d_abondance,commune,La Chapelle-d'Abondance
+la_chapelle_rambaud,commune,La Chapelle-Rambaud
+la_chapelle_saint_maurice,commune,La Chapelle-Saint-Maurice
+la_clusaz,commune,La Clusaz
+la_cote_d_arbroz,commune,La Côte-d'Arbroz
+la_forclaz,commune,La Forclaz
+la_muraz,commune,La Muraz
+la_riviere_enverse,commune,La Rivière-Enverse
+la_roche_sur_foron,commune,La Roche-sur-Foron
+la_tour_q917738,commune,La Tour
+la_vernaz,commune,La Vernaz
+larringes,commune,Larringes
+lathuile,commune,Lathuile
+le_biot,commune,Le Biot
+le_bouchet_mont_charvin,commune,Le Bouchet-Mont-Charvin
+le_grand_bornand,commune,Le Grand-Bornand
+le_reposoir,commune,Le Reposoir
+le_sappey,commune,Le Sappey
+les_clefs,commune,Les Clefs
+les_contamines_montjoie,commune,Les Contamines-Montjoie
+les_gets,commune,Les Gets
+les_houches,commune,Les Houches
+les_villards_sur_thones,commune,Les Villards-sur-Thônes
+leschaux,commune,Leschaux
+loisin,commune,Loisin
+lornay,commune,Lornay
+lovagny,commune,Lovagny
+lucinges,commune,Lucinges
+lugrin,commune,Lugrin
+lullin,commune,Lullin
+lully,commune,Lully
+lyaud,commune,Lyaud
+machilly,commune,Machilly
+magland,commune,Magland
+manigod,commune,Manigod
+marcellaz,commune,Marcellaz
+marcellaz_albanais,commune,Marcellaz-Albanais
+margencel,commune,Margencel
+marignier,commune,Marignier
+marigny_saint_marcel,commune,Marigny-Saint-Marcel
+marin,commune,Marin
+marlioz,commune,Marlioz
+marnaz,commune,Marnaz
+massingy,commune,Massingy
+massongy,commune,Massongy
+maxilly_sur_leman,commune,Maxilly-sur-Léman
+megeve,commune,Megève
+megevette,commune,Mégevette
+meillerie,commune,Meillerie
+menthon_saint_bernard,commune,Menthon-Saint-Bernard
+menthonnex_en_bornes,commune,Menthonnex-en-Bornes
+menthonnex_sous_clermont,commune,Menthonnex-sous-Clermont
+mesigny,commune,Mésigny
+messery,commune,Messery
+mieussy,commune,Mieussy
+minzier,commune,Minzier
+monnetier_mornex,commune,Monnetier-Mornex
+mont_saxonnex,commune,Mont-Saxonnex
+montagny_les_lanches,commune,Montagny-les-Lanches
+montriond,commune,Montriond
+morillon,commune,Morillon
+morzine,commune,Morzine
+moye,commune,Moye
+mures,commune,Mûres
+musieges,commune,Musièges
+nancy_sur_cluses,commune,Nancy-sur-Cluses
+nangy,commune,Nangy
+naves_parmelan,commune,Nâves-Parmelan
+nernier,commune,Nernier
+neuvecelle,commune,Neuvecelle
+neydens,commune,Neydens
+nonglard,commune,Nonglard
+novel,commune,Novel
+onnion,commune,Onnion
+orcier,commune,Orcier
+passy,commune,Passy
+peillonnex,commune,Peillonnex
+perrignier,commune,Perrignier
+pers_jussy,commune,Pers-Jussy
+poisy,commune,Poisy
+praz_sur_arly,commune,Praz-sur-Arly
+presilly,commune,Présilly
+publier,commune,Publier
+q744569,commune,Q744569
+quintal,commune,Quintal
+reignier_esery,commune,Reignier-Ésery
+reyvroz,commune,Reyvroz
+rumilly,commune,Rumilly
+saint_andre_de_boege,commune,Saint-André-de-Boëge
+saint_blaise_q430974,commune,Saint-Blaise
+saint_cergues,commune,Saint-Cergues
+saint_eusebe,commune,Saint-Eusèbe
+saint_eustache,commune,Saint-Eustache
+saint_felix,commune,Saint-Félix
+saint_ferreol,commune,Saint-Ferréol
+saint_germain_sur_rhone,commune,Saint-Germain-sur-Rhône
+saint_gervais_les_bains,commune,Saint-Gervais-les-Bains
+saint_gingolph,commune,Saint-Gingolph
+saint_jean_d_aulps,commune,Saint-Jean-d'Aulps
+saint_jean_de_sixt,commune,Saint-Jean-de-Sixt
+saint_jean_de_tholome,commune,Saint-Jean-de-Tholome
+saint_jeoire,commune,Saint-Jeoire
+saint_jorioz,commune,Saint-Jorioz
+saint_julien_en_genevois,commune,Saint-Julien-en-Genevois
+saint_laurent,commune,Saint-Laurent
+saint_paul_en_chablais,commune,Saint-Paul-en-Chablais
+saint_pierre_en_faucigny,commune,Saint-Pierre-en-Faucigny
+saint_sigismond,commune,Saint-Sigismond
+saint_sixt,commune,Saint-Sixt
+saint_sylvestre,commune,Saint-Sylvestre
+sales,commune,Sales
+sallanches,commune,Sallanches
+sallenoves,commune,Sallenôves
+samoens,commune,Samoëns
+savigny,commune,Savigny
+saxel,commune,Saxel
+scientrier,commune,Scientrier
+sciez,commune,Sciez
+scionzier,commune,Scionzier
+serraval,commune,Serraval
+servoz,commune,Servoz
+sevrier,commune,Sevrier
+seyssel,commune,Seyssel
+seytroux,commune,Seytroux
+sillingy,commune,Sillingy
+sixt_fer_a_cheval,commune,Sixt-Fer-à-Cheval
+talloires_montmin,commune,Talloires-Montmin
+taninges,commune,Taninges
+thollon_les_memises,commune,Thollon-les-Mémises
+thones,commune,Thônes
+thonon_les_bains,commune,Thonon-les-Bains
+thusy,commune,Thusy
+thyez,commune,Thyez
+usinens,commune,Usinens
+vacheresse,commune,Vacheresse
+vailly,commune,Vailly
+val_de_chaise,commune,Val de Chaise
+valleiry,commune,Valleiry
+vallieres_sur_fier,commune,Vallières-sur-Fier
+vallorcine,commune,Vallorcine
+vanzy,commune,Vanzy
+vaulx,commune,Vaulx
+veigy_foncenex,commune,Veigy-Foncenex
+verchaix,commune,Verchaix
+vers,commune,Vers
+versonnex,commune,Versonnex
+vetraz_monthoux,commune,Vétraz-Monthoux
+veyrier_du_lac,commune,Veyrier-du-Lac
+villard,commune,Villard
+villaz,commune,Villaz
+ville_en_sallaz,commune,Ville-en-Sallaz
+ville_la_grand,commune,Ville-la-Grand
+villy_le_bouveret,commune,Villy-le-Bouveret
+villy_le_pelloux,commune,Villy-le-Pelloux
+vinzier,commune,Vinzier
+viry,commune,Viry
+viuz_en_sallaz,commune,Viuz-en-Sallaz
+viuz_la_chiesaz,commune,Viuz-la-Chiésaz
+vougy,commune,Vougy
+vovray_en_bornes,commune,Vovray-en-Bornes
+vulbens,commune,Vulbens
+yvoire,commune,Yvoire
+haute_savoie,department,Haute-Savoie
+aiguilles_de_chamonix,massif,Aiguilles de Chamonix
+aiguilles_rouges,massif,aiguilles Rouges
+chaine_des_aravis,massif,chaîne des Aravis
+chaine_des_fiz,massif,chaîne des Fiz
+chaine_du_reposoir,massif,Chaîne du Reposoir
+massif_de_la_chambotte,massif,massif de la Chambotte
+massif_de_pormenaz,massif,Massif de Pormenaz
+massif_de_sixt,massif,massif de Sixt
+massif_des_aravis,massif,massif des Aravis
+massif_des_bauges,massif,massif des Bauges
+massif_des_bornes,massif,massif des Bornes
+massif_du_beaufortain,massif,massif du Beaufortain
+massif_du_chablais,massif,massif du Chablais
+massif_du_faucigny,massif,massif du Faucigny
+massif_du_giffre,massif,massif du Giffre
+massif_du_jura,massif,massif du Jura
+massif_du_mont_blanc,massif,massif du Mont-Blanc
+prealpes_francaises,massif,Préalpes françaises
+q133374395,massif,Q133374395
+tour_saliere_group,massif,Tour Salière Group
+auvergne_rhone_alpes,region,Auvergne-Rhône-Alpes
+abondance_q4668292,resort,Abondance
+avoriaz,resort,Avoriaz
+domaine_de_praz_sur_arly,resort,domaine de Praz sur Arly
+flaine,resort,Flaine
+la_sambuy_seythenex,resort,La Sambuy-Seythenex
+le_chinaillon,resort,le Chinaillon
+le_tour,resort,Le Tour
+les_brasses,resort,Les Brasses
+les_carroz,resort,Les Carroz
+les_contamines,resort,Les Contamines
+les_esserts,resort,Les Esserts
+les_grands_montets,resort,Les Grands Montets
+linga_pre_la_joux,resort,Linga - Pré La Joux
+plaine_joux,resort,Plaine Joux
+planpraz,resort,Planpraz
+praz_de_lys_sommand,resort,Praz de Lys - Sommand
+romme,resort,Romme
+saint_nicolas_de_veroce,resort,Saint-Nicolas-de-Véroce
+samoens_1600,resort,Samoëns 1600
+station_de_ski_argentiere,resort,station de ski Argentière
+station_de_ski_chamonix_mont_blanc,resort,station de ski Chamonix-Mont-Blanc
+station_de_ski_d_hirmentaz,resort,station de ski d'Hirmentaz
+station_de_ski_de_bernex,resort,station de ski de Bernex
+station_de_ski_de_morzine,resort,station de ski de Morzine
+station_de_ski_de_passy_plaine_joux,resort,station de ski de Passy Plaine-Joux
+station_de_ski_de_semnoz,resort,station de ski de Semnoz
+station_de_ski_de_servoz,resort,station de ski de Servoz
+station_de_ski_de_thollon_les_memises,resort,station de ski de Thollon-les-Mémises
+station_de_ski_le_reposoir,resort,station de ski Le Reposoir
+station_de_ski_les_contamines_montjoie,resort,station de ski Les Contamines-Montjoie
+station_de_ski_les_gets,resort,station de ski Les Gets
+station_de_ski_les_haberes,resort,station de ski Les Habères
+station_de_ski_les_houches,resort,station de ski Les Houches
+station_de_ski_mont_saxonnex,resort,station de ski Mont-Saxonnex
+station_de_ski_morillon_1100_les_esserts,resort,station de ski Morillon 1100 Les Esserts
+station_de_ski_vallorcine,resort,station de ski Vallorcine
+super_chatel,resort,Super-Châtel
+aiguille_croche,summit,aiguille Croche
+aiguille_d_entreves,summit,aiguille d'Entrèves
+aiguille_de_berard,summit,aiguille de Bérard
+aiguille_de_bionnassay,summit,aiguille de Bionnassay
+aiguille_de_l_eboulement,summit,aiguille de l'Éboulement
+aiguille_de_la_berangere,summit,aiguille de la Bérangère
+aiguille_de_la_floria,summit,aiguille de la Floria
+aiguille_de_leschaux,summit,aiguille de Leschaux
+aiguille_de_talefre,summit,aiguille de Talèfre
+aiguille_de_toule,summit,aiguille de Toule
+aiguille_de_tre_la_tete,summit,aiguille de Tré la Tête
+aiguille_de_triolet,summit,aiguille de Triolet
+aiguille_des_glaciers,summit,aiguille des Glaciers
+aiguille_des_grands_montets,summit,aiguille des Grands Montets
+aiguille_du_belvedere,summit,aiguille du Belvédère
+aiguille_du_chardonnet,summit,aiguille du Chardonnet
+aiguille_du_midi,summit,aiguille du Midi
+aiguille_du_midi_des_grands,summit,aiguille du Midi des Grands
+aiguille_du_moine,summit,aiguille du Moine
+aiguille_du_pissoir,summit,aiguille du Pissoir
+aiguille_du_tour,summit,aiguille du Tour
+aiguille_mummery,summit,aiguille Mummery
+aiguille_purtscheller,summit,Aiguille Purtscheller
+aiguille_ravanel_q131151966,summit,aiguille Ravanel
+aiguille_ravanel_q133876303,summit,Aiguille Ravanel
+aiguille_verte,summit,aiguille Verte
+aiguilles_de_la_pennaz,summit,aiguilles de la Pennaz
+aiguilles_du_diable,summit,aiguilles du Diable
+aiguilles_marbrees,summit,aiguilles Marbrées
+arete_couturier,summit,arête Couturier
+arete_de_la_brenva,summit,arête de la Brenva
+arete_de_rochefort,summit,arête de Rochefort
+arete_de_tricot,summit,arête de Tricot
+cheval_blanc,summit,Cheval Blanc
+corne_au_taureau,summit,Corne au Taureau
+cornebois,summit,Cornebois
+cornettes_de_bise,summit,Cornettes de Bise
+croisse_baulet,summit,Croisse Baulet
+dent_d_oche,summit,dent d'Oche
+dent_de_cons,summit,dent de Cons
+dent_du_caiman,summit,dent du Caïman
+dent_du_crocodile,summit,dent du Crocodile
+dent_du_lan,summit,dent du Lan
+dent_du_requin,summit,dent du Requin
+dents_de_lanfon,summit,dents de Lanfon
+dome_de_rochefort,summit,dôme de Rochefort
+domes_de_miage,summit,dômes de Miage
+grand_capucin,summit,Grand Capucin
+grand_flambeau,summit,Grand Flambeau
+grande_fourche,summit,Grande Fourche
+grandes_autannes,summit,Grandes Autannes
+grandes_jorasses,summit,Grandes Jorasses
+grandes_lanches,summit,Grandes Lanches
+grenier_de_commune,summit,Grenier de Commune
+gros_bechar,summit,Gros Béchar
+gros_rognon,summit,Gros Rognon
+haute_pointe,summit,Haute-Pointe
+hirmentaz,summit,Hirmentaz
+l_etale,summit,l'Étale
+la_belle_etoile,summit,La Belle Étoile
+la_croix_de_fer,summit,La Croix de Fer
+la_flegere,summit,La Flégère
+la_grande_jeanne,summit,La Grande Jeanne
+la_miaz,summit,La Miaz
+la_tour_ronde,summit,la Tour Ronde
+la_tournette_q1758703,summit,La Tournette
+le_cheval_blanc_q3221172,summit,Le Cheval Blanc
+le_mole,summit,Le Môle
+le_morclan,summit,le Morclan
+le_parmelan,summit,le Parmelan
+le_semnoz,summit,le Semnoz
+le_taillefer,summit,le Taillefer
+les_bosses,summit,les Bosses
+les_grands_vans,summit,Les Grands Vans
+les_jumelles_chaine_des_fiz,summit,Les Jumelles (chaîne des Fiz)
+les_periades,summit,Les Périades
+les_taureaux,summit,Les Taureaux
+les_trables,summit,Les Trables
+mont_benand,summit,Mont Bénand
+mont_blanc,summit,mont Blanc
+mont_buet,summit,mont Buet
+mont_cesar,summit,mont César
+mont_charvin_q3321741,summit,mont Charvin
+mont_chauffe,summit,mont Chauffé
+mont_chery,summit,mont Chéry
+mont_clergeon,summit,Mont Clergeon
+mont_corbeau,summit,mont Corbeau
+mont_d_arbois,summit,mont d'Arbois
+mont_d_hermone,summit,mont d'Hermone
+mont_de_grange,summit,mont de Grange
+mont_de_vouan,summit,Mont de Vouan
+mont_dolent,summit,mont Dolent
+mont_forchat,summit,mont Forchat
+mont_gosse,summit,Mont Gosse
+mont_joly,summit,mont Joly
+mont_lachat_de_chatillon,summit,mont Lachat de Châtillon
+mont_lachat_q31641262,summit,mont Lachat
+mont_lachat_q3321909,summit,mont Lachat
+mont_mallet,summit,mont Mallet
+mont_maudit,summit,mont Maudit
+mont_rampignon,summit,Mont Rampignon
+mont_teret,summit,mont Téret
+mont_tondu,summit,mont Tondu
+mont_trelod,summit,mont Trelod
+mont_veyrier,summit,mont Veyrier
+montagne_d_age,summit,Montagne d'Âge
+montagne_d_anterne,summit,montagne d'Anterne
+montagne_de_bange,summit,montagne de Bange
+montagne_de_cotagne,summit,montagne de Cotagne
+montagne_de_cou,summit,Montagne de Cou
+montagne_de_la_mandallaz,summit,montagne de la Mandallaz
+montagne_de_lachat_q48753889,summit,montagne de Lachat
+montagne_de_sous_dine,summit,montagne de Sous-Dîne
+montagne_de_sulens,summit,montagne de Sulens
+montagne_des_fretes,summit,montagne des Frêtes
+montagne_des_gures,summit,montagne des Gures
+montagne_des_memises,summit,montagne des Mémises
+montagne_des_princes,summit,Montagne des Princes
+montagne_du_charbon,summit,montagne du Charbon
+montagne_du_gros_foug,summit,montagne du Gros Foug
+monts_jovet,summit,monts Jovet
+petit_saleve,summit,Petit Salève
+petites_jorasses,summit,Petites Jorasses
+piton_des_italiens,summit,piton des Italiens
+plateau_de_beauregard,summit,plateau de Beauregard
+plateau_des_saix,summit,plateau des Saix
+pointe_alphonse_favre,summit,pointe Alphonse Favre
+pointe_d_andey,summit,pointe d'Andey
+pointe_d_angolon,summit,Pointe d'Angolon
+pointe_d_arcalod,summit,pointe d'Arcalod
+pointe_d_arvoin,summit,pointe d'Arvoin
+pointe_d_ireuse,summit,pointe d'Ireuse
+pointe_d_uble,summit,pointe d'Uble
+pointe_de_bella_cha,summit,pointe de Bella Cha
+pointe_de_benevent,summit,pointe de Bénévent
+pointe_de_bron,summit,pointe de Bron
+pointe_de_chalune,summit,pointe de Chalune
+pointe_de_chavannais,summit,pointe de Chavannais
+pointe_de_chesery,summit,pointe de Chésery
+pointe_de_la_beccaz,summit,pointe de la Beccaz
+pointe_de_la_gay,summit,pointe de la Gay
+pointe_de_la_golette,summit,Pointe de la Golette
+pointe_de_la_terrasse_q8098051,summit,pointe de la Terrasse
+pointe_de_merdassier,summit,pointe de Merdassier
+pointe_de_miribel,summit,pointe de Miribel
+pointe_de_nantaux,summit,pointe de Nantaux
+pointe_de_plate,summit,pointe de Platé
+pointe_de_vorlaz,summit,pointe de Vorlaz
+pointe_des_grands,summit,pointe des Grands
+pointe_des_jottis,summit,pointe des Jottis
+pointe_des_rosses,summit,pointe des Rosses
+pointe_du_midi,summit,pointe du Midi
+pointe_kurz,summit,pointe Kurz
+pointe_noire_de_pormenaz,summit,pointe Noire de Pormenaz
+pointe_walker,summit,pointe Walker
+pyramide_du_tacul,summit,pyramide du Tacul
+quatre_tetes,summit,Quatre Têtes
+roc_d_enfer,summit,roc d'Enfer
+roc_de_four_magnin,summit,roc de Four Magnin
+roc_des_bufs,summit,roc des Bœufs
+roc_lancrenaz,summit,roc Lancrenaz
+rocher_du_roux,summit,rocher du Roux
+roches_franches,summit,Roches Franches
+rocs_de_la_combe,summit,rocs de la Combe
+saix_noir,summit,Saix Noir
+tete_carree,summit,Tête Carrée
+tete_de_balme,summit,tête de Balme
+tete_de_cabeau,summit,tête de Cabeau
+tete_de_l_avalanche,summit,Tête de l'Avalanche
+tete_de_la_charme,summit,tête de la Charme
+tete_de_la_cicle,summit,tête de la Cicle
+tete_de_la_sallaz,summit,tête de la Sallaz
+tete_de_perua,summit,tête de Pérua
+tete_de_trelaporte,summit,tête de Trélaporte
+tete_des_annes,summit,tête des Annes
+tete_des_rosses,summit,tête des Rosses
+tete_du_colonney,summit,tête du Colonney
+tete_du_geant,summit,tête du Géant
+tete_du_pre_des_saix,summit,tête du Pré des Saix
+tetes_de_ballaval,summit,têtes de Ballaval
+tetes_de_tre_la_tete,summit,têtes de Tré-la-Tête
+tour_de_prazon,summit,tour de Prazon
+vuache,summit,Vuache

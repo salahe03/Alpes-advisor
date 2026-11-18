@@ -1,0 +1,33 @@
+id,type,label
+combloux,commune,Combloux
+demi_quartier,commune,Demi-Quartier
+domancy,commune,Domancy
+hauteluce,commune,Hauteluce
+la_giettaz,commune,La Giettaz
+les_contamines_montjoie,commune,Les Contamines-Montjoie
+les_houches,commune,Les Houches
+megeve,commune,Megève
+passy,commune,Passy
+praz_sur_arly,commune,Praz-sur-Arly
+saint_gervais_les_bains,commune,Saint-Gervais-les-Bains
+sallanches,commune,Sallanches
+haute_savoie,department,Haute-Savoie
+savoie,department,Savoie
+massif_du_beaufortain,massif,massif du Beaufortain
+massif_du_faucigny,massif,massif du Faucigny
+massif_du_giffre,massif,massif du Giffre
+massif_du_mont_blanc,massif,massif du Mont-Blanc
+auvergne_rhone_alpes,region,Auvergne-Rhône-Alpes
+domaine_de_praz_sur_arly,resort,domaine de Praz sur Arly
+flaine,resort,Flaine
+les_saisies,resort,Les Saisies
+plaine_joux,resort,Plaine Joux
+saint_nicolas_de_veroce,resort,Saint-Nicolas-de-Véroce
+aiguille_croche,summit,aiguille Croche
+arete_de_tricot,summit,arête de Tricot
+chard_du_beurre,summit,Chard du Beurre
+montagne_d_anterne,summit,montagne d'Anterne
+montagne_d_outray,summit,montagne d'Outray
+plateau_des_saix,summit,plateau des Saix
+signal_de_bisanne,summit,signal de Bisanne
+tete_de_la_cicle,summit,tête de la Cicle
